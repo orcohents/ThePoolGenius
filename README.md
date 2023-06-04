@@ -1,6 +1,6 @@
 # ThePoolGenius
-Goal: Detect the best hit on a pool game, when the image taken from different points of view. The program returns the ball and hole for the best hit.
-Environment: Jupyter Notebook, Python, OpenCV
+Goal: Detect the best hit on a pool game, when the image taken from different points of view. The program returns the ball and hole for the best hit. <br>
+Environment: Jupyter Notebook, Python, OpenCV. <br>
 Note that the program supports images of green pool tables, taken from a point of view which all the table (including all pockets) is visible to the camera.
 Final result:
 
